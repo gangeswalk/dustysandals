@@ -338,21 +338,20 @@ h1, h2, h3, h4, h5, h6 {
   letter-spacing: 1px;
   display: inline-block;
   padding: 14px 30px;
-  border-radius: 3px;
+  border-radius: 7px;
   margin: 10px;
   color: #fff;
-  background: #7cc576;
+  background: #a50020;
 }
 #hero .btn-get-started:hover {
   transition: 0.5s;
   background: #fff;
-  color: #7cc576;
+  color: #a50020;
 }
 @media (min-width: 1024px) {
   #hero {
     background-attachment: fixed;
   }
-
   /* #hero .hero-logo {
     width: 400px;
   } */
@@ -365,9 +364,8 @@ h1, h2, h3, h4, h5, h6 {
   #hero h2 {
     line-height: 22px;
   }
-
   /* #hero .hero-logo {
-    width: 300px;
+    height: 80px;
   } */
 }
 
