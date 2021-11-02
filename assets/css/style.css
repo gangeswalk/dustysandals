@@ -364,9 +364,9 @@ h1, h2, h3, h4, h5, h6 {
   #hero h2 {
     line-height: 22px;
   }
-  /* #hero .hero-logo {
-    height: 80px;
-  } */
+  #hero .hero-logo {
+    max-width: 100%;
+  }
 }
 
 /*--------------------------------------------------------------
