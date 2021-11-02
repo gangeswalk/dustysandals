@@ -353,9 +353,9 @@ h1, h2, h3, h4, h5, h6 {
     background-attachment: fixed;
   }
 
-  #hero .hero-logo {
-    width: 60%;
-  }
+  /* #hero .hero-logo {
+    width: 400px;
+  } */
 }
 @media (max-width: 768px) {
   #hero h1 {
@@ -366,9 +366,9 @@ h1, h2, h3, h4, h5, h6 {
     line-height: 22px;
   }
 
-  #hero .hero-logo {
-    width: 60%;
-  }
+  /* #hero .hero-logo {
+    width: 300px;
+  } */
 }
 
 /*--------------------------------------------------------------
