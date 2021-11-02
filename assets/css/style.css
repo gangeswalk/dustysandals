@@ -352,6 +352,11 @@ h1, h2, h3, h4, h5, h6 {
   #hero {
     background-attachment: fixed;
   }
+
+  #hero .hero-logo {
+    margin-bottom: 10px;
+    height: 80px;
+  }
 }
 @media (max-width: 768px) {
   #hero h1 {
@@ -360,6 +365,11 @@ h1, h2, h3, h4, h5, h6 {
   }
   #hero h2 {
     line-height: 22px;
+  }
+
+  #hero .hero-logo {
+    margin-bottom: 10px;
+    height: 80px;
   }
 }
 
@@ -1386,7 +1396,8 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  background: url("../img/footer-bg.jpg") center center no-repeat;
+  /* background: url("../img/footer-bg.jpg") center center no-repeat; */
+  background:rgba(247, 178, 0, 1.0);
   color: #fff;
   font-size: 14px;
   position: relative;
