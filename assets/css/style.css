@@ -1411,7 +1411,7 @@ section {
   right: 0;
   top: 0;
   bottom: 0;
-  background: rgba(0, 0, 0, 0.85);
+  background: rgba(247, 178, 0, 1.0);
   z-index: 1;
 }
 #footer .footer-top {
